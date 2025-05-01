@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Rahul Chavan
 
-🚀 **Cloud & DevOps Engineer | AWS & Azure Certified | Linux & Windows Administrator**
 
 I’m a passionate IT professional with over 3 years of hands-on experience in managing **on-premises and cloud infrastructure**, working across **AWS**, **Azure**, and system administration on both **Linux** and **Windows** platforms. I specialize in **cloud automation, infrastructure provisioning**, and **CI/CD pipelines**, aiming to bridge the gap between development and operations.
 
