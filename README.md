@@ -7,10 +7,10 @@ I’m a passionate IT professional with over 3 years of hands-on experience in m
 
 ## 🧰 Tech Stack
 
-- **Cloud Platforms:** AWS (EC2, S3, VPC, IAM, RDS, CloudWatch), Azure (VMs, Storage, VNet, NSG, Load Balancer)
-- **OS & Admin:** Linux (Ubuntu, CentOS), Windows Server (AD, GPO, IIS), MacOS
-- **DevOps Tools:** Terraform, Docker, Git, Jenkins, GitHub Actions, CodePipeline
-- **Scripting:** Bash, PowerShell (Basic)
+- **Cloud Platforms:** AWS, Azure
+- **OS & Admin:** Linux (Ubuntu, RHEL), Windows Server (AD, GPO, IIS), MacOS
+- **DevOps Tools:** Terraform, Ansible, Git, Docker
+- **Scripting:** Bash 
 - **Monitoring:** AWS CloudWatch, Azure Monitor, Grafana, CloudTrail
 - **Networking & Security:** IAM, VPC, Subnets, Security Groups, Firewall (Sophos/Cisco)
 
